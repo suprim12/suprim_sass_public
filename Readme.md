@@ -13,27 +13,33 @@ suprim_sass helps you to add scss to your project and start as soon as possible.
 #### Node Cli
 
 ```javascript
- npx suprim_sass
+ npx suprim_sass@latest
 ```
 
-### Folder Structure
+#### Npm Package
+
+```javascript
+ npm i suprim_sass
+```
+
+#### Folder Structure
 
 ```bash
 .
 ├── main.scss
 ├── base
-│   ├── _base.scss
 │   ├── _index.scss
+│   ├── _base.scss
 │   ├── _reset.scss
 │   ├── _typography.scss
 │   └── _variables.scss
 ├── components
-│   ├── _button.scss
 │   ├── _index.scss
+│   ├── _button.scss
 │   └── _nav.scss
 ├── layouts
-│   ├── _breakpoints.scss
 │   ├── _index.scss
+│   ├── _breakpoints.scss
 │   └── _layouts.scss
 ├── mixins
 │   ├── _index.scss
@@ -49,4 +55,4 @@ suprim_sass helps you to add scss to your project and start as soon as possible.
 
 <img src="./img/banner.jpg" width="1200px" alt="banner">
 
-<p>More features comming soon.</p>
+<p>More features comming soon. Modular in Focus</p>
