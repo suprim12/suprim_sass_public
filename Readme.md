@@ -53,6 +53,6 @@ suprim_sass helps you to add scss to your project and start as soon as possible.
 
 #### Components Page
 
-<img src="./img/banner.jpg" width="1200px" alt="banner">
+<img src="./img/intro.jpg" width="1200px" alt="banner">
 
 <p>More features comming soon. Modular in Focus</p>
