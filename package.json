@@ -1,6 +1,6 @@
 {
   "name": "suprim_sass_public",
-  "version": "2.0.7",
+  "version": "3.0.1",
   "description": "Fasten your static site developement with sass.",
   "main": "src/index.js",
   "scripts": {
